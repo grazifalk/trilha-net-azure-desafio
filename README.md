@@ -66,3 +66,11 @@ Este é um diagrama do ambiente que deverá ser montado no Microsoft Azure, util
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima, incluindo a sua publicação na nuvem.
+
+## Resoluções By Grazi
+
+![Post](Imagens/01post.JPG)
+![Get](Imagens/02get.JPG)
+![Put](Imagens/03put.JPG)
+![Delete](Imagens/04delete.JPG)
+![Azure Storage Explorer](Imagens/05azstorageexplorer.JPG)
